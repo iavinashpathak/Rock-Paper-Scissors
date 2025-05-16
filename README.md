@@ -1,19 +1,20 @@
-# Rock Paper Scissors Game - Python
+# Rock Paper Scissors Game - Python (Terminal-Based)
 
-A simple yet interactive implementation of the classic Rock, Paper, Scissors game using Python. The project demonstrates the use of **functions**, **Object-Oriented Programming (OOP)**, and various **Python modules** to create a fully functional game.
+A terminal-based implementation of the classic Rock, Paper, Scissors game using Python. This project highlights the use of **functions**, **Object-Oriented Programming (OOP)**, and standard Python modules for a clean and maintainable design.
 
 ## Features
-- **Interactive Gameplay**: Play against the computer with an intuitive user interface.
-- **OOP Design**: The game logic is structured using classes and objects, promoting reusability and maintainability.
-- **Randomized Computer Moves**: The computer randomly selects its move from the available choices.
-- **Replay Option**: After each round, users can choose to play again.
+- **Terminal-Based Interaction**: Simple and intuitive text-based gameplay through the terminal.
+- **OOP Design**: Modular structure using classes for better organization and scalability.
+- **Randomized Computer Moves**: Computer selects its move randomly using the `random` module.
+- **Replay Option**: Play multiple rounds with the option to continue or exit after each game.
 
 ## Tech Stack
 - **Python**
-- **OOP Concepts**: Classes, Objects, Inheritance, etc.
-- **Modules Used**: `random`, `time`
+- **Object-Oriented Programming (OOP)**
+- **Built-in Modules**: `random`, `time`
 
-## Setup
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/username/rock-paper-scissors.git
+## Getting Started
+
+### Run the Game
+```bash
+python game.py
